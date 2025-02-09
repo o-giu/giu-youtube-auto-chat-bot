@@ -1,7 +1,7 @@
 # 🤖 YouTube Auto Chat Bot
 
-O arquivo .js contém um script JavaScript que automatiza o envio de emojis no chat de uma live do YouTube.<br>
-O código foi projetado para ser executado no console do DevTools.
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> O arquivo .js contém um script JavaScript que automatiza o envio de emojis no chat de uma live do YouTube. O código foi projetado para ser executado no console do DevTools.<br>
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> The .js file contains a JavaScript script that automates sending emojis in the chat of a YouTube Live stream. The code is designed to run in the DevTools console.
 
 ---
 
